@@ -1,19 +1,15 @@
 # White-Wine Quality Prediction
-This is a self-project by me to explore some prediction model in the data-science related areas of research. Prediction is conducted by comparing several prediction model. The data used are [The Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) presented in UCI Machine Learning repository.
+Predictive data modelling is one of many ways of conducting data analysis, to understand and forecast the probability of future events. It is often beneficial in fields such as finance, marketing, sales, healthcare, and more. This is a self-project by me to explore some of many prediction models in the data-science related areas of research. This project is conducted by comparing several prediction model to find the best use of the model corresponding with a spesific type of data. The data used are [The Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) presented in UCI Machine Learning repository.
 
 #### -- Project Status: [Completed]
 
 ## The purpose of the project
-This project are conducted with a purpose of determining what prediction model are best-suited for the data. The data are equipped with sets of features such as   
-
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+This project are conducted with a purpose of determining what prediction model are best-suited for the data. The data are equipped with sets of features such as fixed acidity, volatile acidity, residual sugar, etc. with the 'quality' data as labels. 
 
 ### Methods Used
-* Inferential Statistics
+With set of features stated before. It is important to really dived in to the data and see what are the features that really mattered and give more influence to the quality of the Wine in general. In this case first we used some 
+To This project use som
+* Exporatory Data Analysis
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
