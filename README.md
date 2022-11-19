@@ -7,10 +7,10 @@ Predictive data modelling is one of many ways of conducting data analysis, to un
 This project are conducted with a purpose of determining what prediction model are best-suited for the data. The data are equipped with sets of features such as fixed acidity, volatile acidity, residual sugar, etc. with the 'quality' data as labels. 
 
 ### Methods Used
-With set of features stated before. It is important to really dived in to the data and see what are the features that really mattered and give more influence to the quality of the Wine in general. In this case first we used some 
-To This project use som
+With set of features stated before. It is important to really dived in to the data and see what are the features that really mattered and give more influence to the quality of the Wine in general. With subset of Features that are influencial to the Quality of Wine, we can then use some statistical model to make a prediction model to predict the quality of Wine given the unique Features of flavor.
+In this project we use some method such as :
 * Exporatory Data Analysis
-* Machine Learning
+* Prediction model (Logistic Regression,   
 * Data Visualization
 * Predictive Modeling
 * etc.
